@@ -1,0 +1,4 @@
+name: ActionDetection
+version: '1.0'
+main: jp.ac.kochict.actiondetection.ActionDetection
+api-version: 1.19
