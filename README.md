@@ -1,5 +1,4 @@
 # Minecraft-AtomLiteLED
-- - -
 Minecraft内の特定動作を検知し、Atom-Liteの付属のLEDを光らせる。
 ## 開発環境
 - Arduino IDEA Ver 2.1.0
